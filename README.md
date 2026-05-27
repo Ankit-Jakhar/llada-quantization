@@ -28,7 +28,7 @@ Paper: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llada-quantization
+git clone https://github.com/Ankit-Jakhar/llada-quantization
 cd llada-quantization
 pip install -r requirements.txt
 ```
@@ -128,9 +128,9 @@ If you use this work, please cite:
 ```bibtex
 @misc{llada-quantization-2026,
   title  = {LLaDA Quantization: INT8 and INT4 for Diffusion Language Models},
-  author = {YOUR NAME},
+  author = Ankit jakhar,
   year   = {2026},
-  url    = {https://github.com/YOUR_USERNAME/llada-quantization}
+  url    = {https://github.com/Ankit-Jakhar/llada-quantization}
 }
 ```
 
